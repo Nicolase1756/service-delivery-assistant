@@ -1,0 +1,8 @@
+{
+  "name": "online service delivary",
+  "description": "A web app for residents to report service delivery issues (water leaks, potholes, etc.) and for municipalities to track and resolve them, ensuring accountability and transparency.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
